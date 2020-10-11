@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Lab3">
+      <UniqueIdentifier>{a2567ad4-e124-4dd7-b404-8cd8e391692b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lab2">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="first.cpp">
+      <Filter>Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="second.cpp">
+      <Filter>Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="third.cpp">
+      <Filter>Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="fourth.cpp">
+      <Filter>Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="six.cpp">
+      <Filter>Lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task1-multiply array.cpp">
+      <Filter>Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2-vectors multiply type.cpp">
+      <Filter>Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Task4 - binary and insertion.cpp">
+      <Filter>Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Task3-Linear Search.cpp">
+      <Filter>Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Task5-Binary search.cpp">
+      <Filter>Lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Task6-binary search and delete.cpp">
+      <Filter>Lab3</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
